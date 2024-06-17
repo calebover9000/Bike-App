@@ -1,0 +1,102 @@
+[
+  {
+    "BikeID": 1,
+    "Make": "KTM",
+    "Model": "XCW 300",
+    "Year": 2014,
+    "Displacement": 300,
+    "Price": 42000,
+    "Terrain": "Offroad",
+    "Description": "The KTM 300 XC-W has been at the forefront of the insane pace of development within Extreme Enduro. This nimble, lightweight all-terrain master fears no obstacle, making it the ultimate machine for taking on the renowned Iron Giant. The special ERZBERGRODEO limited edition is packed with KTM PowerParts and a unique graphics kit to commemorate this special event. With everything you need to conquer the world's most extreme enduro race, this unique machine is ready to take you forward in your journey to more extreme enduro."
+  },
+  {
+    "BikeID": 2,
+    "Make": "Yamaha",
+    "Model": "WR 450F",
+    "Year": 2006,
+    "Displacement": 450,
+    "Price": 26000,
+    "Terrain": "Offroad",
+    "Description": "The Yamaha WR450F is an off-road motorcycle made by Yamaha Motor Company. It currently has a 450 cc liquid-cooled single-cylinder engine. The WR in the name indicates a wide-ratio gear box common to most enduro or trail bikes and stands in contrast to the close-ratio gearbox essential to a motocross racer."
+  },
+  {
+    "BikeID": 3,
+    "Make": "Suzuki",
+    "Model": "DRZ 400",
+    "Year": 2004,
+    "Displacement": 400,
+    "Price": 22000,
+    "Terrain": "Road",
+    "Description": "The Suzuki DR-Z400 is a dual-sport motorcycle manufactured by Suzuki beginning in 2000. It is powered by a single-cylinder, 398 cc, carbureted, liquid-cooled four-stroke engine."
+  },
+  {
+    "BikeID": 4,
+    "Make": "Honda",
+    "Model": "CBR 600F4i",
+    "Year": 2001,
+    "Displacement": 600,
+    "Price": 25000,
+    "Terrain": "Road",
+    "Description": "The Honda CBR600F is a CBR series 600 cc four-cylinder sport bike made by Honda. The first model of the CBR600F was sold from 1987 to 1990 and is known in the US as the Hurricane."
+  },
+  {
+    "BikeID": 5,
+    "Make": "Yamaha",
+    "Model": "YZ 250F",
+    "Year": 2001,
+    "Displacement": 250,
+    "Price": 19000,
+    "Terrain": "Offroad",
+    "Description": "The Yamaha YZ250F is a motocross motorcycle first released in 2001 by Yamaha. It had a five-valve, DOHC, four-stroke engine and initially had a steel frame and an aluminum subframe, which was replaced in the 2006 model with an all-aluminum frame."
+  },
+  {
+    "BikeID": 6,
+    "Make": "KTM",
+    "Model": "EXC 450",
+    "Year": 2021,
+    "Displacement": 450,
+    "Price": 99000,
+    "Terrain": "Offroad",
+    "Description": "The KTM 450 EXC is a 4-stroke enduro off-road motorcycle made by KTM. The models are the European road legal 400 EXC and 450 EXC, the US 450 (Close Ratio) XC and 450 (Wide Ratio) XC-W. The European EXC versions have a small headlight, speedometer, tail-light and somewhat softer linkless (PDS) rear suspension. The US EXC is 50-states street legal."
+  },
+  {
+    "BikeID": 7,
+    "Make": "Kawasaki",
+    "Model": "KX 80",
+    "Year": 1994,
+    "Displacement": 80,
+    "Price": 14000,
+    "Terrain": "Offroad",
+    "Description": "The Kawasaki KX80 was an offroad motorbike, introduced in 1979. It is a single cylinder 2 stroke running at 32:1 fuel ratio. There are big wheel and small wheel bikes to fit shorter and taller kids safely, and more comfortably."
+  },
+  {
+    "BikeID": 8,
+    "Make": "Yamaha",
+    "Model": "R1",
+    "Year": 2010,
+    "Displacement": 1000,
+    "Price": 83000,
+    "Terrain": "Road",
+    "Description": "The Yamaha YZF-R1, or R1, is an open class sport bike, or superbike, motorcycle made by Yamaha from 1998 through present."
+  },
+  {
+    "BikeID": 9,
+    "Make": "KTM",
+    "Model": "450 SMR",
+    "Year": 2021,
+    "Displacement": 450,
+    "Price": 130000,
+    "Terrain": "Road",
+    "Description": "Making a welcomed return to the KTM range is the highly anticipated KTM 450 SMR. It is based on the championship winning KTM 450 SX-F that is a proven formula and is the industry benchmark. It combines what we have in a winning formula in the KTM 450 SX-F and our READY TO RACE genes and for 2021, this machine delivers superior performance and easy handling."
+  },
+  {
+    "BikeID": 10,
+    "Make": "Honda",
+    "Model": "CRF230",
+    "Year": 2003,
+    "Displacement": 230,
+    "Price": 15000,
+    "Terrain": "Offroad",
+    "Description": "The CRF230 was introduced in 2003 and has remained virtually unchanged ever since. The 230 is a big hit with the off road crowd due to its electric start and torquey 4-stroke engine."
+  }
+]

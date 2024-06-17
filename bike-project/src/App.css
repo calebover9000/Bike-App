@@ -1,0 +1,50 @@
+/* Root */
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+/* Sorting Arrows */
+.sort-button {
+  background-color: transparent;
+  border: none;
+
+  padding: 5px 10px;
+  margin: 0;
+  line-height: 1;
+  font-size: 15px;
+  color: black;
+  cursor: pointer;
+
+  transition: transform 0.05s ease-out;
+}
+
+/* Sorting Arrow Rotation */
+.sort-reverse {
+  transform: rotate(180deg);
+}
+
+/* Search Button */
+.searchButton {
+  font-family: "Open Sans";
+  color: #555555;
+  margin-top: 10px;
+  border: 1px solid white;
+  border-radius: 5px;
+  font-weight: bold;
+  text-transform: uppercase;
+  background: linear-gradient(
+    to top,
+    #aeaeae,
+    #c4c4c4 48%,
+    #d5d5d5 52%,
+    #e1e1e1
+  );
+  border: 1px solid #8c8c8c;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 1px 3px 0 #616161, 0 0 0 4px #cbcbcb, 0 0 0 5.5px #ffffff,
+    0 0 0 7px #555555;
+}
